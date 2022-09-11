@@ -4,8 +4,8 @@
 
 Technologies I'm working with currently are
 - <b>SQL / PostgreSQL / MySQL</b>
-- Python
-- Tableau
+- <b>Python</b>
+- <b>Tableau</b>
 
 ----
 
@@ -16,4 +16,4 @@ Technologies I'm working with currently are
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uttarangangopadhyay&layout=compact)](https://github.com/uttarang/github-readme-stats)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ptyadana)
+![Profile Views](https://komarev.com/ghpvc/?username=uttarangangopadhyay)
