@@ -3,7 +3,7 @@
 
 
 Technologies I'm working with currently are
-- <b>SQL / PostgreSQL / MySQL</b>
+- <b>SQL / MySQL</b>
 - <b>Python</b>
 - <b>Tableau</b>
 
