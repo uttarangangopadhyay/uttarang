@@ -16,6 +16,6 @@ Technologies I'm working with currently are
 [![Tableau Badge](http://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/profile/uttaran.gangopadhyay#!/)](https://public.tableau.com/profile/uttaran.gangopadhyay#!/)
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/uttarangangopadhyay/)](https://github.com/uttarangangopadhyay) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uttarangangopadhyay&layout=compact)](https://github.com/uttarang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uttarangangopadhyay&layout=compact)]
 
 ![Profile Views](https://komarev.com/ghpvc/?username=uttarangangopadhyay)
