@@ -4,8 +4,10 @@
 
 Technologies I'm working with currently are
 - <b>SQL / MySQL</b>
-- <b>Python</b>
+- <b>MS Excel</b>
 - <b>Tableau</b>
+- <b>Python</b>
+- <b>AWS</b>
 
 ----
 
