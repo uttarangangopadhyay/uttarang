@@ -12,7 +12,7 @@ Technologies I'm working with currently are
 ----
 
 #### 📬 Find me at(/n)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phonethiriyadana)](https://www.linkedin.com/in/phonethiriyadana)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uttarang)](https://www.linkedin.com/in/uttarang)
 [![Tableau Badge](http://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/profile/phonethiriyadana#!/)](https://public.tableau.com/profile/phonethiriyadana#!/)
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/uttarangangopadhyay/)](https://github.com/uttarangangopadhyay) 
 
