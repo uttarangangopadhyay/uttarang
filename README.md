@@ -1,13 +1,13 @@
 # Hello! <img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px">
-<p>I'm Uttaran and have 5 years experience working as an analyst with SQL, MS Excel and Tableau.</p>
+<p>I'm Uttaran and have over 6 years of experience working as an analyst with SQL, MS Excel, Tableau and Power BI.</p>
 
 
 Technologies I'm working with currently are
 - <b>SQL / MySQL</b>
 - <b>MS Excel</b>
 - <b>Tableau</b>
-- <b>Python</b>
-- <b>AWS</b>
+- <b>Power BI</b>
+- <b>Azure</b>
 
 ----
 
